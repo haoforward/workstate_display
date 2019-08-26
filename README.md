@@ -9,7 +9,7 @@
 ## 界面展示
 - 查询界面间切换的动图
 
-<img src="https://github.com/haoforward/workstate_display/blob/origin/images/workstate.gif" alt="show" />
+<img src="https://github.com/haoforward/workstate_display/blob/master/images/workstate.gif" alt="show" />
 
 
 - 1. 工作流查询主界面
