@@ -7,21 +7,25 @@
 - 该模块实现的具体技术细节欢迎您和我交流讨论，Wechat：15600564938
 
 ## 界面展示
+- 查询界面间切换的动图
+
 <img src="https://github.com/haoforward/workstate_display/blob/origin/images/workstate.gif" alt="show" />
-查询界面间切换的动图
 
-![image](https://github.com/haoforward/workflow_display/raw/master/images/main.png)
 
-图1. 工作流查询主界面
+- 1. 工作流查询主界面
 
-![image](https://github.com/haoforward/workflow_display/raw/master/images/table.png)
+![image](https://github.com/haoforward/workstate_display/raw/master/images/main.png)
 
-图2. 工作流状态数统计面板
+- 2. 工作流状态数统计面板
 
-![image](https://github.com/haoforward/workflow_display/raw/master/images/jobs_list.png)
+![image](https://github.com/haoforward/workstate_display/raw/master/images/table.png)
 
-图3. 所有的子任务列表查询界面
+- 3. 所有的子任务列表查询界面
 
-![image](https://github.com/haoforward/workflow_display/raw/master/images/jobs_detail.png)
+![image](https://github.com/haoforward/workstate_display/raw/master/images/jobs_list.png)
 
-图4. 单个子任务详情查询界面
+- 4. 单个子任务详情查询界面
+
+![image](https://github.com/haoforward/workstate_display/raw/master/images/jobs_detail.png)
+
+​                                              
