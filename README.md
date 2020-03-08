@@ -1,5 +1,5 @@
 # workstate_display
-国家重点研发专项（项目编号：2017YFB0701700）工作流查询模块展示
+工作流查询模块展示
 ## 项目说明
 - 项目名称——“高通量自动流程材料集成计算算法与软件及其在先进存储材料中的应用”
 - 该项目从2017年开始立项，主要任务为自主开发一款高通量自动流程计算软件ALKEMIE（Artificial Learning and Knowledge Enhanced Materials Informatics Engineering），用于辅助与加速传统材料研发进程，开发周期为4年，将于2021年结项。
